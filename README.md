@@ -1,6 +1,6 @@
-MiniZT — A Tiny ZeroTier-Inspired Cloud-Based Virtual Network (Free, Open, Modifiable)
+MiniZT — A Tiny Cloud-Based Virtual Network (Free, Open, Modifiable)
 
-MiniZT is a miniature, hackable, ZeroTier-inspired virtual networking system that lets you create your own L2/L3 overlay network using WireGuard, a Cloud Controller, and auto-join Linux/Windows clients.
+MiniZT is a miniature, hackable,  virtual networking system that lets you create your own L2/L3 overlay network using WireGuard, a Cloud Controller, and auto-join Linux/Windows clients.
 
 This project is meant for:
 
