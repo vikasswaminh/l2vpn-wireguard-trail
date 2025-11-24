@@ -188,3 +188,15 @@ powershell -ExecutionPolicy Bypass -File wg-client.ps1 -ServerIP 45.12.22.10 -Ho
 Your Windows machine will now join the overlay network as:
 
 10.1.1.5
+
+Requirements
+
+A Linux server with a public IP
+
+WireGuard installed on server & clients
+
+Flask (for controller)
+
+curl/jq for Linux client
+
+WireGuard.exe for Windows client
