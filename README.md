@@ -200,3 +200,5 @@ Flask (for controller)
 curl/jq for Linux client
 
 WireGuard.exe for Windows client
+
+Building these products for my research company https://www.namahos.com
